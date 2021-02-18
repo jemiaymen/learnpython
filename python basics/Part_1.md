@@ -60,6 +60,20 @@ Open VSCode => new file `part1.py` => save.
 *   Video [1.mp4](1.mp4) 
 *   Code : [1.py](1.py) 
 
+### Commenting in python
+
+Open VSCode => new file `2.py` => save.
+
+` # this is line comment` \
+` print('line comment start with #')` \
+` """ this is a` \
+` multi line comment """` \ 
+` print('multi line comment start with 3 of " or 3 of \'  ')` 
+
+**FILES**  
+
+*   Video [2.mp4](1.mp4) 
+*   Code : [2.py](1.py) 
 
 ## Exercises
 
